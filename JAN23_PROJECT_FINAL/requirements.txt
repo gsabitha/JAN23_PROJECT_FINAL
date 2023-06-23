@@ -1,0 +1,7 @@
+pytest==7.3.2
+selenium
+webdriver-manager
+pytest-html
+openpyxl
+allure-pytest
+configparser
